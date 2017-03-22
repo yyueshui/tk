@@ -14,4 +14,11 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
-.idea/*
+.idea
+\#*
+.*
+!.gitignore
+*.swp
+*~
+*.swo
+$.swn
